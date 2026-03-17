@@ -6,15 +6,15 @@ Predicting Hotel Cancellations: A Data-Driven Approach to Revenue Protection
 One-line hook: By predicting which bookings are most likely to be cancelled, this project gives hotel managers the tools to act early and protect revenue before rooms go empty.
 
 The Business Problem
-A Portuguese hotel chain is losing significant revenue to booking cancellations that they never see coming. With no way to identify high-risk bookings in advance, the hotel is left scrambling to fill empty rooms at the last minute, often at discounted rates or not at all. If nothing changes, the hotel will continue absorbing these losses with no systematic way to intervene.
+A Portuguese hotel chain is losing revenue to cancellations they never see coming. With no way to identify high-risk bookings in advance, rooms go empty with no time to rebook them.
 The Data
-The data comes from a real Portuguese hotel chain and covers over 119,000 individual bookings across a city hotel and a resort hotel between 2015 and 2017. Each booking captures details about the guest including how far in advance they booked, what type of customer they are, where they booked from, how many special requests they made, and whether they ultimately cancelled or showed up.
+Over 119,000 bookings from a city and resort hotel in Portugal between 2015 and 2017, capturing how far ahead guests booked, where they booked from, special requests made, and whether they cancelled.
 Key Discoveries
 
-Early bookers cancel at nearly double the rate: Guests who cancelled made their reservations an average of 145 days in advance compared to only 80 days for guests who showed up, making lead time one of the strongest warning signs available at the time of booking.
-Online travel agencies are the highest risk channel: Bookings made through third-party platforms like Booking.com and Expedia cancel at nearly double the rate of direct bookings, giving the hotel little leverage once a cancellation happens.
-Engaged guests almost never cancel: Guests who made two or more special requests cancelled at a fraction of the rate of guests who made none, suggesting that emotional investment in a trip is a strong signal of commitment.
-Previous cancellers cancel again: Guests with a history of cancelling were far more likely to cancel their current booking, making past behavior one of the most actionable flags the hotel can check at reservation time.
+Early bookers cancel at nearly double the rate: Cancelled bookings were made an average of 145 days in advance vs. 80 days for kept bookings.
+Online travel agencies are the highest risk channel: OTA bookings cancel at nearly double the rate of direct bookings.
+Engaged guests almost never cancel: Guests with two or more special requests cancelled at a fraction of the rate of guests who made none.
+Previous cancellers cancel again: A history of cancelling is one of the most actionable red flags a hotel can check at reservation time.
 
 Visualizing the Story
 
