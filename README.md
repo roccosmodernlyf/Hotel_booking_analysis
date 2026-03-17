@@ -17,6 +17,7 @@ Engaged guests almost never cancel: Guests who made two or more special requests
 Previous cancellers cancel again: Guests with a history of cancelling were far more likely to cancel their current booking, making past behavior one of the most actionable flags the hotel can check at reservation time.
 
 Visualizing the Story
+
 <img width="335" height="269" alt="image" src="https://github.com/user-attachments/assets/6bad19f3-2ded-46d8-8523-7d3d39c6b938" />
 
 
